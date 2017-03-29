@@ -62,5 +62,5 @@
 # Backup entities generated with doctrine:generate:entities command
 */Entity/*~
 
-# Bundles
+# Bundles
 /src/Xandrusoft/*

@@ -1,4 +1,2 @@
-x
-=
-
-A Symfony project created on March 28, 2017, 1:01 pm.
+# X
+X is a open-source project that provide a platform to manage the success of a project
